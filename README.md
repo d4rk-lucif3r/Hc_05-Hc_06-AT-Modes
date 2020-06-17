@@ -1,4 +1,4 @@
-# Hc_05-Hc_06-AT-Modes
+# AT Configuration for Hc-05 and Hc-06
 -AT Commands stands for **Attention command**
 
 -AT commands mode is used to change default settings of Bluetooth module.
