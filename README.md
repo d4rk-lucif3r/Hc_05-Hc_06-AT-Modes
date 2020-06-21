@@ -9,8 +9,8 @@
 - Connections
 	- VCC/5v to 5v of Arduino
 	- Gnd to Gnd of Arduino
-	- RX pin to Digital Pin 10
-	- TX pin to Digital Pin 11
+	- RX pin of Bluetooth Module to Digital Pin 11
+	- TX pin of Bluetooth Module to Digital Pin 10
 	- Key pin to Digital Pin 9
 - Flash Code into Arduino.
 - Keep the button Present on Bluetooth Module pressed Before turning on power
